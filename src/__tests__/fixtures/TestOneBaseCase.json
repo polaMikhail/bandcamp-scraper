@@ -1,0 +1,387 @@
+{
+   "input": {
+      "item_cache": {
+         "wishlist": {
+            "a3844326241": {
+               "service_name": null,
+               "gift_sender_note": null,
+               "is_giftable": true,
+               "also_collected_count": 13,
+               "band_id": 2366907243,
+               "band_image_id": null,
+               "gift_id": null,
+               "tralbum_type": "a",
+               "download_available": true,
+               "is_subscription_item": false,
+               "item_art_id": 3839788974,
+               "item_title": "SoftSweetRadical",
+               "purchased": null,
+               "service_url_fragment": null,
+               "gift_recipient_name": null,
+               "why": null,
+               "band_name": "VINSON",
+               "tralbum_id": 3844326241,
+               "item_id": 3844326241,
+               "sale_item_type": null,
+               "hidden": null,
+               "is_preorder": false,
+               "package_details": null,
+               "item_type": "album",
+               "band_location": null,
+               "is_subscriber_only": false,
+               "sale_item_id": null,
+               "num_streamable_tracks": 10,
+               "release_count": null,
+               "item_url": "https://bruthavinson.bandcamp.com/album/softsweetradical-2",
+               "url_hints": {
+                  "slug": "softsweetradical-2",
+                  "custom_domain": null,
+                  "custom_domain_verified": null,
+                  "item_type": "a",
+                  "subdomain": "bruthavinson"
+               },
+               "featured_track_url": null,
+               "featured_track_title": "SUNROOF",
+               "album_id": 3844326241,
+               "gift_sender_name": null,
+               "is_private": false,
+               "is_purchasable": true,
+               "featured_track": 1129147409,
+               "message_count": null,
+               "featured_track_is_custom": false
+            },
+            "a2006523762": {
+               "service_name": null,
+               "gift_sender_note": null,
+               "is_giftable": true,
+               "also_collected_count": 304,
+               "band_id": 3695260806,
+               "band_image_id": null,
+               "gift_id": null,
+               "tralbum_type": "a",
+               "download_available": true,
+               "is_subscription_item": false,
+               "item_art_id": 2018212444,
+               "item_title": "New Advancements In Lizard Tech™",
+               "purchased": null,
+               "service_url_fragment": null,
+               "gift_recipient_name": null,
+               "why": null,
+               "band_name": "Reptant",
+               "tralbum_id": 2006523762,
+               "item_id": 2006523762,
+               "sale_item_type": null,
+               "hidden": null,
+               "is_preorder": false,
+               "package_details": null,
+               "item_type": "album",
+               "band_location": null,
+               "is_subscriber_only": false,
+               "sale_item_id": null,
+               "num_streamable_tracks": 3,
+               "release_count": null,
+               "item_url": "https://craigieknowes.com/album/new-advancements-in-lizard-tech",
+               "url_hints": {
+                  "slug": "new-advancements-in-lizard-tech",
+                  "custom_domain": "craigieknowes.com",
+                  "custom_domain_verified": 1,
+                  "item_type": "a",
+                  "subdomain": "craigieknowes"
+               },
+               "featured_track_url": null,
+               "featured_track_title": "Lizard Theme",
+               "album_id": 2006523762,
+               "gift_sender_name": null,
+               "is_private": false,
+               "is_purchasable": true,
+               "featured_track": 3277337680,
+               "message_count": null,
+               "featured_track_is_custom": false
+            },
+            "a1683646757": {
+               "service_name": null,
+               "gift_sender_note": null,
+               "is_giftable": true,
+               "also_collected_count": 22,
+               "band_id": 937895852,
+               "band_image_id": null,
+               "gift_id": null,
+               "tralbum_type": "a",
+               "download_available": true,
+               "is_subscription_item": false,
+               "item_art_id": 510744336,
+               "item_title": "MALTA ORLATA",
+               "purchased": null,
+               "service_url_fragment": null,
+               "gift_recipient_name": null,
+               "why": null,
+               "band_name": "NOT399093",
+               "tralbum_id": 1683646757,
+               "item_id": 1683646757,
+               "sale_item_type": null,
+               "hidden": null,
+               "is_preorder": false,
+               "package_details": null,
+               "item_type": "album",
+               "band_location": null,
+               "is_subscriber_only": false,
+               "sale_item_id": null,
+               "num_streamable_tracks": 9,
+               "release_count": null,
+               "item_url": "https://riforma.bandcamp.com/album/malta-orlata",
+               "url_hints": {
+                  "slug": "malta-orlata",
+                  "custom_domain": null,
+                  "custom_domain_verified": null,
+                  "item_type": "a",
+                  "subdomain": "riforma"
+               },
+               "featured_track_url": null,
+               "featured_track_title": "Co-Stabin",
+               "album_id": 1683646757,
+               "gift_sender_name": null,
+               "is_private": false,
+               "is_purchasable": true,
+               "featured_track": 218164290,
+               "message_count": null,
+               "featured_track_is_custom": false
+            }
+         },
+         "following_genres": {
+            "143": {
+               "display_name": "hip-hop/rap / hip-hop/rap",
+               "token": "hip-hop-rap",
+               "date": null,
+               "tag_id": 0,
+               "discover_id": 143,
+               "art_ids": [
+                  1933669239,
+                  1938909707,
+                  570552185,
+                  2535418424
+               ],
+               "geoname_id": 0,
+               "is_following": true,
+               "location": null,
+               "discover_url": null,
+               "genre_id": 14,
+               "name": "Hip-Hop/Rap",
+               "tag_page_url": "http://bandcamp.com/tag/hip-hop-rap",
+               "format_type": "all",
+               "norm_name": "hip-hop-rap"
+            },
+            "543": {
+               "display_name": "hip-hop/rap",
+               "token": "hip-hop-rap",
+               "date": null,
+               "tag_id": 2018318378,
+               "discover_id": 543,
+               "art_ids": [
+                  2535418424,
+                  1933669239,
+                  570552185,
+                  2712863742
+               ],
+               "geoname_id": 0,
+               "is_following": true,
+               "location": null,
+               "discover_url": null,
+               "genre_id": 0,
+               "name": "Hip-Hop/Rap",
+               "tag_page_url": "http://bandcamp.com/tag/hip-hop-rap",
+               "format_type": "all",
+               "norm_name": "hip-hop-rap"
+            },
+            "635": {
+               "display_name": "rap",
+               "token": "rap",
+               "date": null,
+               "tag_id": 3284107679,
+               "discover_id": 635,
+               "art_ids": [
+                  693487335,
+                  3025993103,
+                  1938909707,
+                  2535418424
+               ],
+               "geoname_id": 0,
+               "is_following": true,
+               "location": null,
+               "discover_url": null,
+               "genre_id": 14,
+               "name": "Rap",
+               "tag_page_url": "http://bandcamp.com/tag/rap",
+               "format_type": "all",
+               "norm_name": "rap"
+            },
+            "607": {
+               "display_name": "trap",
+               "token": "trap",
+               "date": null,
+               "tag_id": 724367420,
+               "discover_id": 607,
+               "art_ids": [
+                  3856454261,
+                  3538971502,
+                  1179324344,
+                  4152937350
+               ],
+               "geoname_id": 0,
+               "is_following": true,
+               "location": null,
+               "discover_url": null,
+               "genre_id": 14,
+               "name": "Trap",
+               "tag_page_url": "http://bandcamp.com/tag/trap",
+               "format_type": "all",
+               "norm_name": "trap"
+            },
+            "60": {
+               "display_name": "electronic",
+               "token": "electronic",
+               "date": null,
+               "tag_id": 0,
+               "discover_id": 60,
+               "art_ids": [
+                  3981230892,
+                  265022005,
+                  1722044829,
+                  4218821675
+               ],
+               "geoname_id": 0,
+               "is_following": true,
+               "location": null,
+               "discover_url": null,
+               "genre_id": 10,
+               "name": "Electronic",
+               "tag_page_url": "http://bandcamp.com/tag/electronic",
+               "format_type": "all",
+               "norm_name": "electronic"
+            },
+            "489": {
+               "display_name": "underground hip hop",
+               "token": "underground-hip-hop",
+               "date": null,
+               "tag_id": 277955328,
+               "discover_id": 489,
+               "art_ids": [
+                  2535418424,
+                  463130223,
+                  1938909707,
+                  693487335
+               ],
+               "geoname_id": 0,
+               "is_following": true,
+               "location": null,
+               "discover_url": null,
+               "genre_id": 14,
+               "name": "underground hip hop",
+               "tag_page_url": "http://bandcamp.com/tag/underground-hip-hop",
+               "format_type": "all",
+               "norm_name": "underground-hip-hop"
+            }
+         },
+         "following_bands": {
+            "384899166": {
+               "band_id": 384899166,
+               "token": "1682430929:384899166",
+               "is_subscribed": null,
+               "is_following": true,
+               "image_id": 18277788,
+               "location": "Sweden",
+               "date_followed": "25 Apr 2023 13:55:29 GMT",
+               "name": "D-takt &amp; Råpunk",
+               "url_hints": {
+                  "custom_domain": null,
+                  "subdomain": "dtaktochrapunkrecords"
+               },
+               "art_id": 14135973
+            },
+            "2204274201": {
+               "band_id": 2204274201,
+               "token": "1682431047:2204274201",
+               "is_subscribed": null,
+               "is_following": true,
+               "image_id": 28281088,
+               "location": "California",
+               "date_followed": "25 Apr 2023 13:57:27 GMT",
+               "name": "AUNDREY GUILLAUME.",
+               "url_hints": {
+                  "custom_domain": null,
+                  "subdomain": "aundreyguillaume"
+               },
+               "art_id": 2433146145
+            },
+            "599671952": {
+               "band_id": 599671952,
+               "token": "1682430992:599671952",
+               "is_subscribed": null,
+               "is_following": true,
+               "image_id": 25847747,
+               "location": "Germany",
+               "date_followed": "25 Apr 2023 13:56:32 GMT",
+               "name": "arovane",
+               "url_hints": {
+                  "custom_domain": null,
+                  "subdomain": "arovane"
+               },
+               "art_id": 1252756235
+            }
+         }
+      }
+   },
+   "expected": {
+      "followed_genres": [
+         {
+            "display_name": "electronic",
+            "tag_page_url": "http://bandcamp.com/tag/electronic"
+         },
+         {
+            "display_name": "hip-hop/rap / hip-hop/rap",
+            "tag_page_url": "http://bandcamp.com/tag/hip-hop-rap"
+         },
+         {
+            "display_name": "underground hip hop",
+            "tag_page_url": "http://bandcamp.com/tag/underground-hip-hop"
+         },
+         {
+            "display_name": "hip-hop/rap",
+            "tag_page_url": "http://bandcamp.com/tag/hip-hop-rap"
+         },
+         {
+            "display_name": "trap",
+            "tag_page_url": "http://bandcamp.com/tag/trap"
+         },
+         {
+            "display_name": "rap",
+            "tag_page_url": "http://bandcamp.com/tag/rap"
+         }
+      ],
+      "following_bands": [
+         {
+            "name": "D-takt &amp; Råpunk"
+         },
+         {
+            "name": "arovane"
+         },
+         {
+            "name": "AUNDREY GUILLAUME."
+         }
+      ],
+      "wishlist": [
+         {
+            "item_title": "SoftSweetRadical",
+            "item_url": "https://bruthavinson.bandcamp.com/album/softsweetradical-2"
+         },
+         {
+            "item_title": "New Advancements In Lizard Tech™",
+            "item_url": "https://craigieknowes.com/album/new-advancements-in-lizard-tech"
+         },
+         {
+            "item_title": "MALTA ORLATA",
+            "item_url": "https://riforma.bandcamp.com/album/malta-orlata"
+         }
+      ],
+      "reliability": 0.3333333333333333
+   }
+}
