@@ -48,3 +48,7 @@ This code uses the Puppeteer library to login to a user account on the Bandcamp 
 3. Captchas are triggered based on the IP address. I encountered captchas while testing locally, but changing the IP address allowed me to bypass them.
 
 4. After successfully obtaining the necessary cookies, the API endpoints do not pose any banning or captcha challenges.
+
+
+### Note:
+Example output is located inside output.json
