@@ -13,16 +13,15 @@ This code uses the Puppeteer library to login to a user account on the Bandcamp 
 1. Clone the repository
 2. Install dependencies by running npm install
 3. Install xvfb 
-4. Place your Bandcamp account login credentials in a JSON file
+4. Place your Bandcamp account login credentials in data/cred.json
 5. use the command to run with xvfb 
    
-    `xvfb-run --server-args="-screen 0 1024x768x24" node src/bandcampScraper.js src/cred.json`
+    `xvfb-run --server-args="-screen 0 1024x768x24" node src/bandcampScraper.js data/cred.json`
 
 
 ## Docker Usage
-4. Place your Bandcamp account login credentials in a JSON file
-
-1. Install docker https://docs.docker.com/get-docker/
+1. Place your Bandcamp account login credentials in data/cred.json
+2. Install docker https://docs.docker.com/get-docker/
 
 ## Docker with makefile
 1. Build the Docker image:
@@ -34,11 +33,11 @@ This code uses the Puppeteer library to login to a user account on the Bandcamp 
     - Modify the makefile with the directory to mount the output to 
     
     - The network mode will be set to "host".
-    - The container will run the "src/bandcampScraper.js" script, passing in the "src/creds.json" file as a parameter.
+    - The container will run the "src/bandcampScraper.js" script, passing in the "data/creds.json" file as a parameter.
     - Run the command `make run`
 ## Docker without makefile
 1. docker build -t `image_name` .
-2. docker run -v `directory_to_mount`:/app  --network=host -it `image_name` src/bandcampScraper.js src/creds.json
+2. docker run -v `directory_to_mount`:/app  --network=host -it `image_name` src/bandcampScraper.js data/creds.json
 
 
 # Observations and Improvments
